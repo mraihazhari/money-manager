@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Dashboard"
+        android:id="@+id/dashboard"
+        android:icon="@drawable/baseline_dashboard_24"
+        />
+    <item android:title= "Activity"
+        android:id="@+id/activity"
+        android:icon="@drawable/baseline_task_24"/>
+    <item android:title="Balance"
+        android:id="@+id/balance"
+        android:icon="@drawable/baseline_account_balance_wallet_24"/>
+</menu>
